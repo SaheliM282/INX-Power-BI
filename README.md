@@ -5,4 +5,4 @@ o	Data modelling:
 o	Data visualization:
 	Cards; various charts; KPI cards; pie/donut diagram; filtering; table & matrix; map; slicer; drilling up, down & through; adding bookmarks & navigation buttons; use of parameters; customizing tooltips
 
-The project comes with some interesting highlights.
+The project comes with some interesting highlights mentioned in the second tab.
